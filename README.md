@@ -1,4 +1,6 @@
 # py-etherscan-api module
+
+[![Join the chat at https://gitter.im/py-etherscan-api/Lobby](https://badges.gitter.im/py-etherscan-api/Lobby.svg)](https://gitter.im/py-etherscan-api/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 EtherScan.io API python bindings
 
 ## Description
